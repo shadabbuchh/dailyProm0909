@@ -70,10 +70,10 @@
       "pluginId": "google-sheets-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "fullyQualifiedName": "FetchMany1",
     "name": "FetchMany1",
     "pageId": "GSheetsRWDSel1Column",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

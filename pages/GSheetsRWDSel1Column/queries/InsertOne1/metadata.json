@@ -64,10 +64,10 @@
         "key": "formData.rowObjects.data"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "InsertOne1",
     "name": "InsertOne1",
     "pageId": "GSheetsRWDSel1Column",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
